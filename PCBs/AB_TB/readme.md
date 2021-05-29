@@ -47,4 +47,4 @@ Since this board has provisions for the X endstop, this should be compatible wit
 
 
 ### Here is how the board and PCB spacer get installed using 2 M3x8 SHCS
-![Mounting](Images/Installation.png)
+[Mounting](https://github.com/hartk1213/MISC/blob/main/3D-Printing/PCBs/Afterburner_Toolhead_PCB/Images/Installation.png)
