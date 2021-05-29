@@ -1,5 +1,5 @@
 
-#Hall Effect Z Endstop for LQ#
+# Hall Effect Z Endstop for LQ #
 
 Hall effect endstop board for Z axis
 
