@@ -3,7 +3,7 @@
 modified version from hartk1213 (https://github.com/hartk1213/MISC/tree/main/3D-Printing/PCBs/Afterburner_Toolhead_PCB)
 
 
-## This is 1.0 (Newest version)
+## This is rev 1.0 (produktion files coming soon!)
 ![PCB](Images/rev1.0/front.png)
 
  [Here](https://github.com/hartk1213/MISC/blob/main/3D-Printing/PCBs/Afterburner_Toolhead_PCB/Images/Rev3.2/wiringDiagram.png) is the wiring diagram -> compatible wih Toolhead PCB rev. 3.2 from hartk1213
@@ -46,5 +46,4 @@ Since this board has provisions for the X endstop, this should be compatible wit
     gcode_id: C
 
 
-### Here is how the board and PCB spacer get installed using 2 M3x8 SHCS
-[Mounting](https://github.com/hartk1213/MISC/blob/main/3D-Printing/PCBs/Afterburner_Toolhead_PCB/Images/Installation.png)
+### [Here](https://github.com/hartk1213/MISC/blob/main/3D-Printing/PCBs/Afterburner_Toolhead_PCB/Images/Installation.png) is how the board and PCB spacer get installed using 2 M3x8 SHCS
